@@ -20,18 +20,22 @@
 <br/><br/>
 
 
-## Hak5 Links:
-Discord: https://hak5.org/discord
+
+<h1><a href="https://shop.hak5.org"><img src="https://cdn.shopify.com/s/files/1/0068/2142/files/logo1_hak5_410x.png?v=1613786565"/></a></h1>
 
 Shop: https://shop.hak5.org
-
-Github / Payloads: https://github.com/hak5
+  
+Discord: https://hak5.org/discord
 
 Instagram: https://instagram.com/hak5gear
 
 Twitter: https://twitter.com/hak5
 
 YouTube: https://youtube.com/@hak5
+
+### Hak5 Resources
+
+Github / Payloads: https://github.com/hak5
 
 PayloadStudio: https://payloadstudio.hak5.org
 
@@ -57,3 +61,8 @@ Pwn Phone / Pwn Pad
 PwnScan for Pwn Pulse SaaS
   
 BlueHydra
+
+
+## Legal Disclaimers
+
+https://forlegalreasonsthatsajoke.com
