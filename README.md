@@ -24,8 +24,8 @@
 <h1><a href="https://shop.hak5.org"><img src="https://cdn.shopify.com/s/files/1/0068/2142/files/logo1_hak5_410x.png?v=1613786565"/></a></h1>
 
 Shop: https://shop.hak5.org
-  
-Discord: https://hak5.org/discord
+
+@Korben#1337 on Discord: https://hak5.org/discord
 
 Instagram: https://instagram.com/hak5gear
 
