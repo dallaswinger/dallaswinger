@@ -67,3 +67,24 @@ BlueHydra
 ## Legal Disclaimers
 
 https://forlegalreasonsthatsajoke.com
+
+
+## Featured by
+
+<div align="center">
+  <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/aa4aa023-c569-4a2d-9ca2-60c25a132074.png"/>
+  <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/2aa8cfe8-0d9a-41b4-a9b3-72bae79bd521.png"/>
+  <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/8eb4f26a-2adb-4bdb-b554-5e73f6d3069e.png"/>
+  <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/9b970a4b-23ae-492a-9c7f-38560d189ba0.png"/>
+  <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/4fb9058b-642a-4802-a59c-f3668d0ce6be.png"/>
+  <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/0a63d417-249d-447b-a2a2-af2575e7108b.png"/>
+  <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/37f388ec-29b8-433a-9d5c-dee3d0a08e9c.png"/>
+  <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/cd0e5cd7-3888-4b48-b65e-f15e3bccf1b9.png"/>
+  <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/8ace2100-fcc3-46ba-a949-b44c7c98a01a.png"/>
+  <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/f8345d5a-b7a3-45a0-a9f6-8b1e975f57a4.png"/>
+  <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/d9fe5457-c435-4e01-861d-557dfccb08e0.png"/>
+  <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/c44cad5f-ac9c-4537-b269-b37e1b718a84.png"/>
+
+  <p> ...to name few</p>
+</div>
+
