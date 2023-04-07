@@ -69,9 +69,10 @@ BlueHydra
 https://forlegalreasonsthatsajoke.com
 
 
-## Featured by
+## Work featured by
 
 <div align="center">
+  
   <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/aa4aa023-c569-4a2d-9ca2-60c25a132074.png"/>
   <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/2aa8cfe8-0d9a-41b4-a9b3-72bae79bd521.png"/>
   <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/8eb4f26a-2adb-4bdb-b554-5e73f6d3069e.png"/>
@@ -84,7 +85,10 @@ https://forlegalreasonsthatsajoke.com
   <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/f8345d5a-b7a3-45a0-a9f6-8b1e975f57a4.png"/>
   <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/d9fe5457-c435-4e01-861d-557dfccb08e0.png"/>
   <img src="https://files.elfsight.com/storage/36b1ff01-1808-49f3-8a1a-0d377e72e86d/c44cad5f-ac9c-4537-b269-b37e1b718a84.png"/>
-
+  <img src="https://files.elfsightcdn.com/36b1ff01-1808-49f3-8a1a-0d377e72e86d/b311af92-3e5f-4edf-a1a9-a1763b255ac4/gothamknights_cw.png"/>
+  <img src="https://files.elfsightcdn.com/36b1ff01-1808-49f3-8a1a-0d377e72e86d/7a84e50a-51b0-4221-b26f-9151abccb9fb/kaleidoscope.png"/>
+  <img src="https://files.elfsightcdn.com/36b1ff01-1808-49f3-8a1a-0d377e72e86d/635fae92-309d-48e2-a50d-4d6ca4881bd8/watchdogs2.png"/><br/>
+<a href="https://www.youtube.com/watch?v=kfaHJwcG2mg"><img src="https://cdn.discordapp.com/attachments/1066717651671462032/1093943024410689618/image.png"/></a> <br/>
   <p> ...to name few</p>
 </div>
 
