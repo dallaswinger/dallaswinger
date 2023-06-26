@@ -25,7 +25,7 @@
 
 Shop: https://shop.hak5.org
 
-**@Korben#1337** on Discord: https://hak5.org/discord
+**@hak5korben** on Discord: https://hak5.org/discord
  
 
 Instagram: https://instagram.com/hak5gear
